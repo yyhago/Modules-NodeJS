@@ -1,5 +1,9 @@
 # Node.js Modules: ESM vs CJS
 
+<p align="center">
+  <img src="./pictureScreen/image.png" alt="Imagem do Projeto">
+</p>
+
 Este repositório contém exemplos práticos das diferenças entre os módulos ECMAScript (ESM) e CommonJS (CJS) no Node.js. Com uma estrutura simples e organizada, o objetivo é demonstrar como cada tipo de módulo funciona, suas peculiaridades, e as melhores práticas para utilizá-los em projetos Node.js.
 
 ## Conteúdo
